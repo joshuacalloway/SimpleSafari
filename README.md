@@ -8,4 +8,5 @@ Is there another solution to this problem using SimpleSafariViewController.swift
 If no solution exists, then can we investigate as to how the Apple GODs coded the framework as to not make this possible?
 
 Desired StoryBoard
-![alt tag](https://github.com/joshuacalloway/SimpleSafari/blob/master/Screen.Shot.2016-02-29.at.7.14.16.PM.png)
+![alt tag](https://github.com/joshuacalloway/SimpleSafari/blob/master/Screen.Shot.2016-02-29.at.7.19.44.PM.png)
+
